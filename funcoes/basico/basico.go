@@ -22,7 +22,7 @@ func F4(p1, p2 string) string {
 
 func F5(p1, p2 string) (string, string) {
 	return p1, p2
-}
+}	
 
 func main() {
 	F1()
